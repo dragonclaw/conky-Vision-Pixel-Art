@@ -12,6 +12,8 @@ The latest version of this theme is on the master branch, and it supports conky 
 
 For older versions, check the available [releases](../../releases).
 
+For macOS port of this theme: [port](https://github.com/Conky-for-macOS/conky-Vision).
+
 ---
 
 ### Installation
