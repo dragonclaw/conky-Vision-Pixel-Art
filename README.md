@@ -1,4 +1,4 @@
-### Vision -- Pixel art versions
+### Vision -- Pixel Art Version
 
 A theme forked from Conky-Vision by zagortenay333 which I was Inspired to.
 [https://github.com/zagortenay333/conky-Vision](Conky-Vision by zagortenay333)
@@ -12,23 +12,11 @@ This fork was for personal use to integrate in my desktop but decided to release
 From now on is the same steps just like conky-vision
 ---
 
-#### Compatibility:
-
-The latest version of this theme is on the master branch, and it supports conky `1.10.x`.
-
-For older versions, check the available [releases](../../releases).
-
-For macOS port of this theme: [port](https://github.com/Conky-for-macOS/conky-Vision).
-
----
-
 ### Installation
 
 You can run the `install` script, or you can do it manually:
 
 * Install **conky**, **curl** and **jq**.
-
-* Install the [Poiret One](https://www.google.com/fonts/specimen/Poiret+One) font.
 
 * Move the `.conky-vision` folder & `.conkyrc` file into your `~` dir.
 
