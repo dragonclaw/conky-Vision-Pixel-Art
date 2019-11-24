@@ -21,7 +21,17 @@ else
     read -rp 'Enter your locale (leave empty for default): ' locale
     sed "s|template9=\"\"|template9=\"$locale\"|" .conkyrc-tmp > ~/.conkyrc
 
+    
+    while true; do
+        read -n1 -p 'Do you need the sabo-filled font? (You can customize your own font inside .conkyrc)' fontSelection
+        case $fontSelection in
+            [Yy]* ) cp ./fonts/Sabo-Filled.otf /usr/local/share/fonts && fc-cache -f -v; break;;
+            [Nn]* ) break;;
+            * ) echo "Please answer yes or no.";;
+        esac
+    done
+    
     rm .conkyrc-tmp
 fi
 
-echo 'Installation complete.'
+echo 'Installation complete. (You might have to restart your windows manager)'

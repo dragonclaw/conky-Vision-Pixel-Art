@@ -1,9 +1,15 @@
-### Vision :sunny: :umbrella: :cloud: :snowflake: :snowman:
+### Vision -- Pixel art versions
 
-A theme for [conky](https://github.com/brndnmtthws/conky) powered by [OpenWeatherMap](http://openweathermap.org/).
+A theme forked from Conky-Vision by zagortenay333 which I was Inspired to.
+[https://github.com/zagortenay333/conky-Vision](Conky-Vision by zagortenay333)
 
-It displays the **time**, **date**, **current weather**, and **forecast** for the next 4 days.
+It already have the font to look like the preview [https://www.1001freefonts.com/sabo.font](Sabo) by [https://www.behance.net/philippemoesch](Philippe Moesch)
 
+Need help with the SVG forecast (Change into Pixel Art Style) because they kinda mismatch with the theme.
+
+This fork was for personal use to integrate in my desktop but decided to release it for anyone interested in using or modifying this theme.
+
+From now on is the same steps just like conky-vision
 ---
 
 #### Compatibility:
@@ -58,6 +64,12 @@ Edit the `template8` variable inside the `.conkyrc` file to change the units.
 
 ---
 
+### Font
+
+Edit the ``Sabo-Filled`` lines inside the `.conkyrc` file to change the font to your liking.
+
+---
+
 ### Colors
 
 * Edit the `color` variables inside the `.conkyrc` file to change **text** color.
@@ -71,3 +83,4 @@ Edit the `template8` variable inside the `.conkyrc` file to change the units.
 ---
 
 <p align="center"><img src="preview.png" id="preview"></p>
+<p align="center"><img src="background.png" id="background"></p>
