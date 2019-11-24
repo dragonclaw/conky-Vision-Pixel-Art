@@ -1,9 +1,9 @@
 ### Vision -- Pixel Art Version
 
 A theme forked from Conky-Vision by zagortenay333 which I was Inspired to.
-[https://github.com/zagortenay333/conky-Vision](Conky-Vision by zagortenay333)
+[Conky-Vision by zagortenay333](https://github.com/zagortenay333/conky-Vision)
 
-It already have the font to look like the preview [https://www.1001freefonts.com/sabo.font](Sabo) by [https://www.behance.net/philippemoesch](Philippe Moesch)
+It already have the font to look like the preview [Sabo](https://www.1001freefonts.com/sabo.font) by [Philippe Moesch](https://www.behance.net/philippemoesch)
 
 Need help with the SVG forecast (Change into Pixel Art Style) because they kinda mismatch with the theme.
 
